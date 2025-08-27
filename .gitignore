@@ -32,9 +32,10 @@ yarn-error.*
 
 # local env files
 .env*.local
-.env
+# .env  <- commented out to allow uploading (NOT RECOMMENDED)
 
 # typescript
 *.tsbuildinfo
 
 app-example
+
